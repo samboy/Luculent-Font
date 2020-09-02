@@ -1,8 +1,5 @@
-This is the license for Charis SIL (we use this derivative of Bitstream
-Charter for the non-italic serif font):
-
-This Font Software is Copyright Andrew Kensler 
-with Reserved Font Names “Lucluent”.
+This Font Software is Copyright Andrew Kensler with Reserved Font Name
+“Lucluent”.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
